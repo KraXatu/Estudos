@@ -1,0 +1,8 @@
+git config --> configuracoes
+git help --> ajuda 
+Git init --> Cria novo repositorio
+git status --> verificar estado dos arquivos e diretorios
+git add . --> adicionar todos arquivos e diretorios
+git commit arquivo.txt -m "mensagem" --> comita com mensagem
+git log --> visualiza historico
+....
